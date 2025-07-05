@@ -17,8 +17,6 @@ Hi 👋, my name is Abdul Samir. I’m a CSE student 🎓, and this is my GitHub
 
 # 💻 Tech Stack:
 
-# 💻 Tech Stack:
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) 
