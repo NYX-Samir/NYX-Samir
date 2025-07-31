@@ -6,7 +6,7 @@
 
 ###
 # About Me:
-Hi 👋, my name is Abdul Samir. I’m a CSE student 🎓, and this is my GitHub profile 🌐. Currently learning and growing 📚 with the goal of becoming a Machine Learning Engineer 🤖.
+Hi 👋, I'm Abdul Samir — a Computer Science student 🎓 with a deep interest in Generative AI 🧠. I'm currently diving into GenAI as a core part of my journey to become a Machine Learning Engineer 🤖. Through consistent learning, hands-on projects, and real-world experimentation 📚, I'm shaping skills that go beyond the classroom. Explore my evolving work and contributions here on GitHub 🌐.
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/nyx_samir)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nyx_samir/)  
