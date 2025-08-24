@@ -1,10 +1,4 @@
 
-
-###
-
-<img align="right" height="150" src="https://media1.tenor.com/m/zn8iyusePtgAAAAC/joy.gif" />
-
-###
 # About Me:
 Hi 👋, I'm Abdul Samir — a Computer Science student 🎓 with a deep interest in Generative AI 🧠. I'm currently diving into GenAI as a core part of my journey to become a Machine Learning Engineer 🤖. Through consistent learning, hands-on projects, and real-world experimentation 📚, I'm shaping skills that go beyond the classroom. Explore my evolving work and contributions here on GitHub 🌐.
 ## 🌐 Socials:
